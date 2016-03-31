@@ -1,8 +1,8 @@
+Si vous avez une question à propos de TermSuite, ou rencontrez le moindre problème, veuillez nous fournir un court rapport sur [problèmes Github]({{site.github}}/issues). 
+Ou bien, si vous n'avez pas de compte Github, à cette [adresse mail](/contact). Nous ferons de notre mieux pour vous répondre au plus vite. 
 
-If you have any question about TermSuite or encounter any problem, please provide a short report to us on [Github issues]({{site.github}}/issues). Or if you do not have any Github account, please address it to us [by email](/contact). We will try our best to give a quick reply to your request.
-
-**Please provide us with the following information:**
- - your OS (with its version number),
- - your java runtime environment (`java -version`),
- - the log file provided by TermSuite (under the current `./logs/` directory),
- - a short description of the problem you encounter.
+**Veuillez nous fournir les informations suivantes :**
+- votre OS (avec le nombre de la version),
+- votre environnement d'execution java ("java -version'), 
+- le fichier log fourni par TermSuite (sous le répertoire `./logs/`),
+- une courte description du problème que vous rencontrez.
